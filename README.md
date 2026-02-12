@@ -1,6 +1,6 @@
 # AnimeHeaven Backend API
 
-Node.js/Express REST API anime adatbázis kezeléséhez MySQL-lel, Sequalize ORM-el!
+Node.js/Express REST API anime adatbázis kezeléséhez MySQL-lel, Sequelize ORM-el!
 
 ## Technológiák
 
